@@ -31,6 +31,7 @@ Table of Contents
 - [Robotics](#robotics)
 - [Computational Finance](#computational-finance)
 - [Misc](#misc)
+- [Animation and desinging](#Animation-and-desinging)
 
 Courses
 ------------------------------
